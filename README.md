@@ -44,7 +44,6 @@ Tested and verified on:
 
 ### 📡 Bluetooth (HC-05)
 
-- Baudrate: **9600 (default)**  
 - First, **pair the HC-05 module with your PC**  
 - Then, select the COM port in the UI  
 - Supported commands:
